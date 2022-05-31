@@ -4,6 +4,6 @@ https://community.snowflake.com/s/article/HOW-TO-QUERY-NESTED-XML-DATA-IN-SNOWFL
 method.
 
 2) Created a python script to create csv file of xml.
-3) uploaded the csv file of badges successfully but due to discrepancy in data other csv files were not created and uploaded.
+3) uploaded the csv file of badges successfully but due to different type of attributes in data other csv files were not created and uploaded.
 4) Created all the models successfully using DBT ,had some errors had to debug ,successfully running now.
 5) Compiled the files and pushed them to version control repository.
