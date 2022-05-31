@@ -32,7 +32,7 @@ models:
   - name: Milestone2
     description: "Milestone2"
     columns:
-      - name: id
+      - name:
         description: "The primary key for this table"
         tests:
           - unique
@@ -41,7 +41,7 @@ models:
   - name: Milestone3
     description: "Milestone3"
     columns:
-      - name: id
+      - name:
         description: "The primary key for this table"
         tests:
           - unique
@@ -50,7 +50,7 @@ models:
   - name: Milestone4
     description: "Milestone4"
     columns:
-      - name: id
+      - name:
         description: "The primary key for this table"
         tests:
           - unique
@@ -59,7 +59,7 @@ models:
   - name: Milestone5
     description: "Milestone5"
     columns:
-      - name: id
+      - name: 
         description: "The primary key for this table"
         tests:
           - unique
